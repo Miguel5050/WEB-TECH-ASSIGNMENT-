@@ -1,0 +1,12 @@
+com\example\clinicoffices\office\OfficeResponse.class
+com\example\clinicoffices\office\ApiExceptionHandler.class
+com\example\clinicoffices\office\OfficeInput.class
+com\example\clinicoffices\office\OfficeRepository.class
+com\example\clinicoffices\office\OfficeService.class
+com\example\clinicoffices\office\OfficeStats.class
+com\example\clinicoffices\office\AvailabilityInput.class
+com\example\clinicoffices\office\OfficeController.class
+com\example\clinicoffices\office\RoomNumberConflictException.class
+com\example\clinicoffices\office\OfficeNotFoundException.class
+com\example\clinicoffices\office\Office.class
+com\example\clinicoffices\OfficeManagementApplication.class
